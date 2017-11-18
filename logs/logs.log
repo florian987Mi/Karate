@@ -1,0 +1,29 @@
+2017-11-18 18:12:24 INFO  Main:9 - Program started!
+2017-11-18 18:22:59 INFO  Main:11 - Program started!
+2017-11-18 18:22:59 INFO  Main:63 - 135.0
+2017-11-18 18:22:59 INFO  Main:64 - 3500.0
+2017-11-18 18:22:59 INFO  Main:65 - 0.0
+2017-11-18 18:23:38 INFO  Main:11 - Program started!
+2017-11-18 18:23:38 INFO  Main:63 - 135.0
+2017-11-18 18:23:38 INFO  Main:64 - 65.0
+2017-11-18 18:23:38 INFO  Main:65 - 3500.0
+2017-11-18 18:24:18 INFO  Main:11 - Program started!
+2017-11-18 18:24:18 INFO  Main:63 - Addition result: 135.0
+2017-11-18 18:24:18 INFO  Main:64 - Substraction result: 65.0
+2017-11-18 18:24:18 INFO  Main:65 - Multiplication result: 3500.0
+2017-11-18 18:25:17 INFO  Main:11 - Program started!
+2017-11-18 18:25:17 INFO  Main:63 - Number 1: 100 Number 2: 35
+2017-11-18 18:25:17 INFO  Main:64 - Addition result: 135.0
+2017-11-18 18:25:17 INFO  Main:65 - Substraction result: 65.0
+2017-11-18 18:25:17 INFO  Main:66 - Multiplication result: 3500.0
+2017-11-18 18:25:35 INFO  Main:11 - Program started!
+2017-11-18 18:25:35 INFO  Main:63 - Number 1: 100
+ Number 2: 35
+2017-11-18 18:25:35 INFO  Main:64 - Addition result: 135.0
+2017-11-18 18:25:35 INFO  Main:65 - Substraction result: 65.0
+2017-11-18 18:25:35 INFO  Main:66 - Multiplication result: 3500.0
+2017-11-18 18:25:44 INFO  Main:11 - Program started!
+2017-11-18 18:25:44 INFO  Main:63 - Number 1: 100/ Number 2: 35
+2017-11-18 18:25:44 INFO  Main:64 - Addition result: 135.0
+2017-11-18 18:25:44 INFO  Main:65 - Substraction result: 65.0
+2017-11-18 18:25:44 INFO  Main:66 - Multiplication result: 3500.0
