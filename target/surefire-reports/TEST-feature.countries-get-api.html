@@ -8,6 +8,7 @@
 <div>
 <div>Verify that map data are received when sending address to the google map service</div>
 <div>
+<div>configure cookies = null passed</div>
 <div>url 'http://maps.googleapis.com/maps/api/geocode/xml?' passed</div>
 <div>params {address: '75, Perera Mawatha, Pellawatte, Batharamulla'} passed</div>
 <div>method get passed</div>
@@ -17,7 +18,27 @@
 <div>
 <div>Get all countries</div>
 <div>
+<div>configure cookies = null passed</div>
 <div>url 'https://restcountries.eu/rest/v2/all' passed</div>
+<div>method GET passed</div>
+<div>status 200 passed</div>
+</div>
+</div>
+<div>
+<div>Request without authentication</div>
+<div>
+<div>configure cookies = null passed</div>
+<div>url 'https://dls-qa.siemens.cloud/hl/hl.obsreqprocess/' passed</div>
+<div>request { test : 'karate' } passed</div>
+<div>method POST passed</div>
+<div>status 403 passed</div>
+</div>
+</div>
+<div>
+<div>Request without authentication</div>
+<div>
+<div>configure cookies = null passed</div>
+<div>url 'https://restcountries.eu/rest/v2/capital/berlin' passed</div>
 <div>method GET passed</div>
 <div>status 200 passed</div>
 </div>
